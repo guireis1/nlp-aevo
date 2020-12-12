@@ -1,8 +1,8 @@
 # nlp-aevo
 
-Desafio de NLP
+## Desafio de NLP
 
-Processo seletivo da AEVO.
+### Processo seletivo da AEVO.
 
 *main.ipynb* -> Notebooks principal
 
@@ -14,6 +14,6 @@ Processo seletivo da AEVO.
 
 data -> Folder contendo os dados necessários
 
-Projeto realizado por,
+**Projeto realizado por,**
 
 GUILHERME REIS
